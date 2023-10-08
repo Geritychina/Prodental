@@ -1,5 +1,5 @@
 # Prodental 🦷
-📌 Cource work of Requirements engineering <br>
+📌 Cource work of Requirements Еngineering <br>
 
 📌Used technology: Star UML, Maven & Cucumber 🥒 for Eclipse / Java 🐸
 
